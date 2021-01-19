@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\BMI\BMIGUI\bin\Debug\BMIGUI.exe.config
+C:\Users\jpscott\Desktop\BMI\BMIGUI\bin\Debug\BMIGUI.exe
+C:\Users\jpscott\Desktop\BMI\BMIGUI\bin\Debug\BMIGUI.pdb
+C:\Users\jpscott\Desktop\BMI\BMIGUI\obj\Debug\BMIGUI.csprojAssemblyReference.cache
+C:\Users\jpscott\Desktop\BMI\BMIGUI\obj\Debug\BMIGUI.FormBMI.resources
+C:\Users\jpscott\Desktop\BMI\BMIGUI\obj\Debug\BMIGUI.Properties.Resources.resources
+C:\Users\jpscott\Desktop\BMI\BMIGUI\obj\Debug\BMIGUI.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\BMI\BMIGUI\obj\Debug\BMIGUI.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\BMI\BMIGUI\obj\Debug\BMIGUI.exe
+C:\Users\jpscott\Desktop\BMI\BMIGUI\obj\Debug\BMIGUI.pdb

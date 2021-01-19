@@ -1,0 +1,13 @@
+C:\Users\jpscott\Desktop\BMI\BMIConsole\bin\Debug\netcoreapp3.1\BMIConsole.exe
+C:\Users\jpscott\Desktop\BMI\BMIConsole\bin\Debug\netcoreapp3.1\BMIConsole.deps.json
+C:\Users\jpscott\Desktop\BMI\BMIConsole\bin\Debug\netcoreapp3.1\BMIConsole.runtimeconfig.json
+C:\Users\jpscott\Desktop\BMI\BMIConsole\bin\Debug\netcoreapp3.1\BMIConsole.runtimeconfig.dev.json
+C:\Users\jpscott\Desktop\BMI\BMIConsole\bin\Debug\netcoreapp3.1\BMIConsole.dll
+C:\Users\jpscott\Desktop\BMI\BMIConsole\bin\Debug\netcoreapp3.1\BMIConsole.pdb
+C:\Users\jpscott\Desktop\BMI\BMIConsole\obj\Debug\netcoreapp3.1\BMIConsole.csprojAssemblyReference.cache
+C:\Users\jpscott\Desktop\BMI\BMIConsole\obj\Debug\netcoreapp3.1\BMIConsole.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\BMI\BMIConsole\obj\Debug\netcoreapp3.1\BMIConsole.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\BMI\BMIConsole\obj\Debug\netcoreapp3.1\BMIConsole.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\BMI\BMIConsole\obj\Debug\netcoreapp3.1\BMIConsole.dll
+C:\Users\jpscott\Desktop\BMI\BMIConsole\obj\Debug\netcoreapp3.1\BMIConsole.pdb
+C:\Users\jpscott\Desktop\BMI\BMIConsole\obj\Debug\netcoreapp3.1\BMIConsole.genruntimeconfig.cache
